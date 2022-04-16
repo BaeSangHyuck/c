@@ -18,5 +18,11 @@
     <ClCompile Include="casting.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="casting2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="encrypt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
