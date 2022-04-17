@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="casting.c">
+    <ClCompile Include="variable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="encrypt.c">
+    <ClCompile Include="variableTask.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

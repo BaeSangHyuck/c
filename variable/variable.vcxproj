@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c0f123fb-2e89-4c53-8258-a59b37f6ac0d}</ProjectGuid>
-    <RootNamespace>casting</RootNamespace>
+    <ProjectGuid>{674d7031-16ec-4f9d-af4f-2371d609fa7c}</ProjectGuid>
+    <RootNamespace>variable</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="casting.c" />
-    <ClCompile Include="encrypt.c" />
+    <ClCompile Include="variable.c" />
+    <ClCompile Include="variableTask.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

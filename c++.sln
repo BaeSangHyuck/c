@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "casting", "casting\casting.vcxproj", "{C0F123FB-2E89-4C53-8258-A59B37F6AC0D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "variable", "variable\variable.vcxproj", "{674D7031-16EC-4F9D-AF4F-2371D609FA7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C0F123FB-2E89-4C53-8258-A59B37F6AC0D}.Release|x64.Build.0 = Release|x64
 		{C0F123FB-2E89-4C53-8258-A59B37F6AC0D}.Release|x86.ActiveCfg = Release|Win32
 		{C0F123FB-2E89-4C53-8258-A59B37F6AC0D}.Release|x86.Build.0 = Release|Win32
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Debug|x64.ActiveCfg = Debug|x64
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Debug|x64.Build.0 = Debug|x64
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Debug|x86.Build.0 = Debug|Win32
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Release|x64.ActiveCfg = Release|x64
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Release|x64.Build.0 = Release|x64
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Release|x86.ActiveCfg = Release|Win32
+		{674D7031-16EC-4F9D-AF4F-2371D609FA7C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
